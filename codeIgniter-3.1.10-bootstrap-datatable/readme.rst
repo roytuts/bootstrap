@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/bootstrap-datatable-crud-using-codeigniter-mysql-ajax
